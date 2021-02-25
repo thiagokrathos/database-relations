@@ -2,7 +2,6 @@
   Relacionamentos com banco de dados no Node.js
 </h1>
 
-
   <p align="center">
     <img src="src/assets/relations_dbeaver.png" width="50%" height="50%" max-width:100% >
   </p>
